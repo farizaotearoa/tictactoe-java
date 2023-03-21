@@ -94,11 +94,11 @@ Player take turn in tictactoe game
 
 ### Case 2. Player X won the game
 
-[ X , X , - ]				[ X , X , X ]	
+[ X , X , - ]	-->	   [ X , X , X ]	
 
-[ O , O , - ]	-->	  [ O , O , - ]
+[ O , O , - ]	-->      [ O , O , - ]
 
-[ - , - , - ]				  [ - , - , - ]
+[ - , - , - ]	-->      [ - , - , - ]
 
 **Sample Request Body**
 
