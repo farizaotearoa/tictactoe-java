@@ -11,7 +11,7 @@ I'm creating tic-tac-toe game using Java Spring Boot as backend. For the fronten
 
 2. Open file **index.html** inside **tictactoe-frontend** folder
 
-​		<img src="/Users/farizaotearoa/Library/Application Support/typora-user-images/image-20230321201343898.png" alt="image-20230321201343898" style="zoom: 25%;" />
+​		<img width="609" alt="image" src="https://user-images.githubusercontent.com/25082101/226620538-d6c0ff06-234e-4482-a840-183df9caba92.png">
 
 
 
